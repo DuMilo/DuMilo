@@ -28,5 +28,5 @@
 
 ##
 
-#### ⭐ im 19 years old, engaged on back-end field, into gamedev ‼️
-#### ⭐ i love to play games, watch cartoons and read ‼️
+#### ⭐ I'm 19 years old, engaged on back-end field, into gamedev ‼️
+#### ⭐ I love to play games, watch cartoons and read ‼️
