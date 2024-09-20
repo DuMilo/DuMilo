@@ -14,7 +14,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-<img align="right" src="https://media.discordapp.net/attachments/1219038991974928386/1286570603578392617/commission_milo2.jpg?ex=66ee63bf&is=66ed123f&hm=786de1eb63f6628888ca897369d3dd4ab666a05b015246fdf88414b8444443cf&=&format=webp&width=200&height=200">
+<img align="right" src="https://media.discordapp.net/attachments/1219038991974928386/1286570603578392617/commission_milo2.jpg?ex=66ee63bf&is=66ed123f&hm=786de1eb63f6628888ca897369d3dd4ab666a05b015246fdf88414b8444443cf&=&format=webp&width=250&height=250">
 </div>
 
 ##
