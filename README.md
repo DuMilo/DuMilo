@@ -1,4 +1,4 @@
-# Heyo, I'm Milo ('Mica')! ⭐ 
+# Heyo, I'm Milo aka 'Mica'! ⭐ 
 
 
 <div>
