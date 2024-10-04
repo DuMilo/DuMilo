@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/DuMilo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuMilo&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuMilo&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
 </div>
 
@@ -14,7 +14,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-<img align="right" src="https://media.discordapp.net/attachments/1219420812868718714/1288641397481803776/commission_milo2.jpg?ex=66f5ec52&is=66f49ad2&hm=ffb75829fe78be6f3ae982edabd01accbbfcb53971a857ddb101826a5228d382&=&format=webp&width=250&height=250">
+<img align="right" src="https://media.discordapp.net/attachments/1219420812868718714/1288641397481803776/commission_milo2.jpg?ex=67012112&is=66ffcf92&hm=76079ea4d46a5a65277e0607fe0bc8cce2a439112ba4c1b7388c980c480707ee&=&format=webp&width=250&height=250">
 </div>
 
 ##
