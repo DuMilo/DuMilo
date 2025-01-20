@@ -28,7 +28,3 @@
 </div> <br>
 
 ##
-
-#### ⭐ I'm 19 years old ‼️
-#### ⭐ I'm into back-end field, mostly gamedev ‼️
-#### ⭐ I love to play games, watch cartoons and read ‼️
