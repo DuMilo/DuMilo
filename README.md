@@ -1,24 +1,27 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
 
-<div>
-  <a href="https://github.com/DuMilo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuMilo&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
-</div>
+---
+## 🖥️ **Stack Técnica**
 
 <div style="display:inline_block"><br>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="right" src="https://media.discordapp.net/attachments/1219420812868718714/1288641397481803776/commission_milo2.jpg?ex=67012112&is=66ffcf92&hm=76079ea4d46a5a65277e0607fe0bc8cce2a439112ba4c1b7388c980c480707ee&=&format=webp&width=250&height=250">
+<img align="center" src="https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align="center" src="https://img.shields.io/badge/Pandas-050a30?style=for-the-badge&logo=pandas&logoColor=ff00ff">
+<img align="center" src="https://img.shields.io/badge/NumPy-050a30?style=for-the-badge&logo=numpy&logoColor=00ffff">
+<img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=050a30">
+<img align="center" src="https://img.shields.io/badge/SQL-050a30?style=for-the-badge&logo=sqlite&logoColor=00ffff">
+<img align="center" src="https://img.shields.io/badge/Git-050a30?style=for-the-badge&logo=git&logoColor=ff9900">
+<img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=050a30">
+<img align="center" src="https://img.shields.io/badge/Power%20BI-050a30?style=for-the-badge&logo=powerbi&logoColor=00ffff">
+<img align="center" src="https://img.shields.io/badge/Jupyter-050a30?style=for-the-badge&logo=jupyter&logoColor=ff6f00">
+<img align="center" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=green&color=050a30">
+<img align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&color=050a30">
+<img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=050a30">
 </div>
 
-##
+---
+
+## 📌 **Contatos**
 
 <div>
   <a href="mailto:milomoreirac@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,4 +30,10 @@
   <a href="https://dumbeloop.itch.io" target="_blank"><img align="left" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
 </div> <br>
 
-##
+---
+
+<div>
+  <a href="https://github.com/DuMilo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuMilo&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
+</div>
