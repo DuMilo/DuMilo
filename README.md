@@ -1,7 +1,7 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
-- #### Entusiasta em estudos de Data Science e ML/AI.
-- #### Gamedev nas horas vagas!
+- ### Entusiasta em estudos de Data Science e ML/AI.
+- ### Gamedev nas horas vagas!
 
 ---
 ## 🖥️ **Stack Técnica**
