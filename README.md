@@ -14,6 +14,7 @@
 <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=050a30">
 <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=ff9900&color=050a30">
 <img align="center" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white&color=050a30">
+<img align="center" src="https://img.shields.io/badge/FastAPI-050a30?style=for-the-badge&logo=fastapi&logoColor=ff9900">
 <img align="center" src="https://img.shields.io/badge/SQL-050a30?style=for-the-badge&logo=sqlite&logoColor=00ffff">
 <img align="center" src="https://img.shields.io/badge/Git-050a30?style=for-the-badge&logo=git&logoColor=ff9900">
 <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=050a30">
