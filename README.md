@@ -1,8 +1,8 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
-- ### Graduando em ADS na CESAR School
-- ### Entusiasta em estudos de Data Science e ML/AI.
-- ### Gamedev nas horas vagas!
+- 📚 // **Graduando em Análise e Desenvolvimento de Sistemas na CESAR School**
+- 🎲 // **Entusiasta em estudos de Data Science e ML/AI**
+- 🎮 // **Gamedev nas horas vagas!**
 
 ---
 ## 🖥️ **Stack Técnica**
