@@ -1,12 +1,13 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
+- ### Graduando em ADS na CESAR School
 - ### Entusiasta em estudos de Data Science e ML/AI.
 - ### Gamedev nas horas vagas!
 
 ---
 ## 🖥️ **Stack Técnica**
 
-<div style="display:inline_block"><br>
+<div style="display:inline_block" align="center"><br>
 <img align="center" src="https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="center" src="https://img.shields.io/badge/Pandas-050a30?style=for-the-badge&logo=pandas&logoColor=ff00ff">
 <img align="center" src="https://img.shields.io/badge/NumPy-050a30?style=for-the-badge&logo=numpy&logoColor=00ffff">
@@ -36,8 +37,11 @@
 
 ---
 
-<div>
+## 📈 **GitHub Stats**
+
+<div align="center">
   <a href="https://github.com/DuMilo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuMilo&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
 </div>
+    
