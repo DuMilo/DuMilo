@@ -15,7 +15,7 @@
 <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=ff9900&color=050a30">
 <img align="center" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white&color=050a30">
 <img align="center" src="https://img.shields.io/badge/FastAPI-050a30?style=for-the-badge&logo=fastapi&logoColor=ff9900">
-<img align="center" src="https://img.shields.io/badge/SQL-050a30?style=for-the-badge&logo=sqlite&logoColor=00ffff">
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&color=050a30">
 <img align="center" src="https://img.shields.io/badge/Git-050a30?style=for-the-badge&logo=git&logoColor=ff9900">
 <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=050a30">
 <img align="center" src="https://img.shields.io/badge/Power%20BI-050a30?style=for-the-badge&logo=powerbi&logoColor=00ffff">
@@ -23,6 +23,10 @@
 <img align="center" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=green&color=050a30">
 <img align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&color=050a30">
 <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=050a30">
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&color=050a30">
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=050a30">
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&color=050a30">
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBite&color=050a30">
 </div>
 
 ---
