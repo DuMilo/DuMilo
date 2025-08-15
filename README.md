@@ -1,8 +1,8 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
-#### - 📚 // **Graduando em Análise e Desenvolvimento de Sistemas na CESAR School**
-#### - 🎲 // **Entusiasta em estudos de Data Science e ML/AI**
-#### - 🎮 // **Gamedev nas horas vagas!**
+### 📚 | **Graduando em Análise e Desenvolvimento de Sistemas**
+### 🎲 | **Entusiasta em estudos de Data Science e ML/AI**
+### 🎮 | **Gamedev nas horas vagas!**
 
 ---
 ## 🖥️ **Stack Técnica**
@@ -22,11 +22,12 @@
 <img align="center" src="https://img.shields.io/badge/Jupyter-050a30?style=for-the-badge&logo=jupyter&logoColor=ff6f00">
 <img align="center" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=green&color=050a30">
 <img align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&color=050a30">
-<img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=050a30">
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&color=050a30">
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=050a30">
+<img align="center" src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godot-engine&color=050a30">
+<img align="center" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white&color=050a30">
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&color=050a30">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBite&color=050a30">
+<img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=050a30">
+<img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=050a30">
 </div>
 
 ---
@@ -50,4 +51,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
 </div>
     
+
 
