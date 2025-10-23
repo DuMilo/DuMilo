@@ -1,5 +1,6 @@
 # Heyo, I'm Milo aka 'Mica'! ⭐ 
 
+### 💼 | **Trabalhando com projetos voltados à Visão Computacional & IA**
 ### 📚 | **Graduando em Análise e Desenvolvimento de Sistemas**
 ### 🎲 | **Foco em IA, Data Science e Machine Learning**
 ### 🎮 | **Gamedev nas horas vagas!**
@@ -51,6 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
 </div>
     
+
 
 
 
