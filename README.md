@@ -26,7 +26,6 @@
 <img align="center" src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godot-engine&color=050a30">
 <img align="center" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white&color=050a30">
 <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=050a30">
-<img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=050a30">
 </div>
 
 ---
@@ -50,6 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuMilo&layout=compact&theme=dracula&langs_count=16"/>
 </div>
     
+
 
 
 
