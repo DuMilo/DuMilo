@@ -1,8 +1,8 @@
-# Heyo, I'm Milo aka 'Mica'! ⭐ 
+# Heyo, I'm Milo! ⭐ 
 
-### 💼 | **Trabalhando com projetos voltados à Visão Computacional, IA & Data Science/Engineering**
-### 📚 | **Graduando em Análise e Desenvolvimento de Sistemas**
-### 🎲 | **Foco em IA, Data Science e Data Engineering**
+### 💼 | **Trabalhando com projetos voltados à Visão Computacional, Data & IA**
+### 📚 | **Graduado em Análise e Desenvolvimento de Sistemas**
+### 🎲 | **Foco em IA, Data Science e Visão Computacional**
 ### 🎮 | **Gamedev nas horas vagas!**
 
 ---
